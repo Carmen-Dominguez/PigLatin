@@ -1,0 +1,11 @@
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.exe
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\bin\Debug\PigLatin.pdb
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.csprojResolveAssemblyReference.cache
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.exe
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\obj\Debug\PigLatin.pdb
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\bin\Debug\Telegram.Bot.dll
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cdomi\source\repos\PigLatin\PigLatin\bin\Debug\Telegram.Bot.xml
